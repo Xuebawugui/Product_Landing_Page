@@ -49,7 +49,7 @@ Designed with a futuristic style, fully responsive for both desktop and mobile, 
 
 ## ✨ Live Demo
 
-> You can deploy this page on GitHub Pages or Vercel for a live demo.
+[> You can deploy this page on GitHub Pages or Vercel for a live demo.](https://xuebawugui.github.io/Product_Landing_Page/)
 
 ## 🤝 Contributing
 
